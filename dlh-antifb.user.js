@@ -11,5 +11,5 @@
 // @downloadURL  	https://raw.githubusercontent.com/Pepperooney/dlh.net-AntiFB/master/dlh-antifb.user.js
 // @grant        none
 // ==/UserScript==
-//credits to https://www.reddit.com/u/popiazaza
+//credit to https://www.reddit.com/u/popiazaza
 $('.hide.btn').show();
