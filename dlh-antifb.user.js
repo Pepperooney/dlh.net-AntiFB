@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         DLH.net AntiFB
 // @namespace    AntiFB
-// @version      0.1
+// @version      0.2
 // @description  no need to like anything anymore
 // @author       Pepperooney
 // @include        https://www.dlh.net/*
